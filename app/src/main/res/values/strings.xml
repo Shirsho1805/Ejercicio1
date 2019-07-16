@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AplicacionJPVP</string>
+    <string-array name="array_spinner">
+        <item>Masculino</item>
+        <item>Fermenino</item>
+        <item>Otros</item>
+        <item>Animal</item>
+    </string-array>
+</resources>

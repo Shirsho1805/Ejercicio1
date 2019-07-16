@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="AzulVergas">#0A0A2A</color>
+    <color name="Negromialma">#000000</color>
+    <color name="Blancarosa">#FFFFFF</color>
+    <color name="Crustar63">#E0E0F8</color>
+</resources>
